@@ -3,4 +3,4 @@
 
 ## 💻 Descrição 🎓
 Repositório destinado a exibir: 
-- Automações que estarei desenvolvendo e as que forem sendo oferecidas através de cursos que venho realizando.
+- Automações na qual eu tenha desenvolvido e as que forem sendo oferecidas através de cursos e realizei modificações aperfeiçoando os códigos.
